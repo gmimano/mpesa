@@ -21,6 +21,7 @@ class Mpesa extends Facade
      */
     protected static function getFacadeAccessor()
     {
+        #This is a simple comment
         return 'mpesa';
     }
 }
